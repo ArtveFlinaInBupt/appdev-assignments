@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="statusTextViewDefaultString">播放状态</string>
+    <string name="progressTextViewDefaultString">--:-- / --:--</string>
+    <string name="playButtonString">播放</string>
+    <string name="pauseButtonString">暂停</string>
+    <string name="stopButtonString">停止</string>
+    <string name="exitButtonString">退出</string>
+</resources>
